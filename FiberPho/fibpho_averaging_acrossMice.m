@@ -109,10 +109,10 @@ catch
     for j=1:2
         if j==1
             %CTL mice
-            cd 'C:\Users\scb38\Dropbox (TadrossLab)\BIG_DATA\Projects\Schultz\Data\Analysis - new behavior\GCaMP Fiber Photometry + gabazine7-DART\grouped controls\fiber pho data';
+            cd '\Fiber Photometry\ddHTP controls'; %change to your full path
         else
             %EXPT mice
-            cd 'C:\Users\scb38\Dropbox (TadrossLab)\BIG_DATA\Projects\Schultz\Data\Analysis - new behavior\GCaMP Fiber Photometry + gabazine7-DART\HTP gab7\fiber pho data';
+            cd '\Fiber Photometry\HTP'; %change to your full path
         end
         if bExludeMice
             %exlude files that start with _VA...
@@ -237,8 +237,8 @@ end
 
 
 %NOTE: in case bINCLUDE_ALL_MICE ends as 0,so that TMPA and TMPB are complete
-TMPA = squeeze(mean(ALLFIB(TRIALS,:,a), 1, 'omitnan'))';  %average over trials
-TMPB = squeeze(mean(ALLFIB(TRIALS,:,b), 1, 'omitnan'))';  %average over trials
+TMPA = squeeze(mean(ALLFIB(TRIALS,:,a), 1, 'omitnan'))';  %average over trials for CTL mice
+TMPB = squeeze(mean(ALLFIB(TRIALS,:,b), 1, 'omitnan'))';  %average over trials for GBZ mice
 
 %%analysis of time windows
 for k=1:length(AnalysisWindows)
