@@ -8,11 +8,11 @@ Department of Biomedical Engineering, Duke University, Durham, North Carolina, U
 Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, Maryland, USA
 
 Paper:
-Data Repository:
-  -Behavior: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10903566.svg)](https://doi.org/10.5281/zenodo.10903566)
-  -Behavior Histology:
-  -In Vivo Electrophysiology:
-  -Fiber Photometry:
+Corresponding Data Repositories:  
+  -Behavior: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10903566.svg)](https://doi.org/10.5281/zenodo.10903566)  
+  -Behavior Histology:  
+  -In Vivo Electrophysiology:  
+  -Fiber Photometry:  
   
 Protocols:
 
