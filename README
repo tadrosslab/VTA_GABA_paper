@@ -9,8 +9,7 @@ Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Che
 
 Paper:
 Data Repository:
-  -Behavior: .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.10903566.svg
-  :target: https://doi.org/10.5281/zenodo.10903566
+  -Behavior: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10903566.svg)](https://doi.org/10.5281/zenodo.10903566)
   -Behavior Histology:
   -In Vivo Electrophysiology:
   -Fiber Photometry:
