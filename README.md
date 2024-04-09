@@ -15,6 +15,6 @@ Corresponding Data Repositories:
   -In Vivo Electrophysiology:  
   -Fiber Photometry:  
   
-Protocols:
+Protocols: protocols.io
 
-Cite this code:
+Cite this code: [![DOI](https://zenodo.org/badge/779430726.svg)](https://zenodo.org/doi/10.5281/zenodo.10951254)
