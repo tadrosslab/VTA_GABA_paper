@@ -11,9 +11,9 @@ Paper:
 
 Corresponding Data Repositories:  
   -Behavior: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10903566.svg)](https://doi.org/10.5281/zenodo.10903566)  
-  -Behavior Histology:  
-  -In Vivo Electrophysiology:  
-  -Fiber Photometry:  
+  -Behavior Histology:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10908572.svg)](https://doi.org/10.5281/zenodo.10908572)
+  -Electrophysiology: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10904059.svg)](https://doi.org/10.5281/zenodo.10904059)
+  -Fiber Photometry:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10908502.svg)](https://doi.org/10.5281/zenodo.10908502)
   
 Protocols: protocols.io
 
